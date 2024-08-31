@@ -1,0 +1,14 @@
+{
+    "categories": {
+        "0": "mobile",
+        "1": "productivity",
+        "2": "data (things)",
+        "3": "image",
+        "4": "media"
+    },
+    "demo_page": "https://apex-charts-79431.bubbleapps.io/version-test/carousel?debug_mode=true",
+    "description": "create an image carousel with Carousel Image Slider bubble plugin \n\nDemo https://apex-charts-79431.bubbleapps.io/version-test/carousel?debug_mode=true",
+    "image": "//meta-q.cdn.bubble.io/f1725108987468x755308093969002000/Animation%20-%201725108948144.gif",
+    "license": "open_source",
+    "name": "Carousel Image Slider"
+}

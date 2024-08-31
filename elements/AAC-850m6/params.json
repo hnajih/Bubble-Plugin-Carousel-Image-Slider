@@ -1,0 +1,27 @@
+{
+    "add_is_visible": true,
+    "can_fit_height": true,
+    "can_fit_width": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 300,
+        "width": 400
+    },
+    "display": "Carousel",
+    "fields": {
+        "AAD": {
+            "caption": "Images",
+            "doc": "list of images to show",
+            "editor": "DynamicValue",
+            "is_list": true,
+            "name": "images",
+            "rank": 0,
+            "value": "image"
+        }
+    },
+    "icon": "ion-images",
+    "property_applications": {
+        "MinWidth": true,
+        "resizable": true
+    }
+}
